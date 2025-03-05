@@ -2,14 +2,17 @@
 # UniStay - App para búsqueda de alquileres estudiantiles
 
 📌 Descripción:
+
 UniStay es una aplicación móvil desarrollada con Flutter y Firebase, diseñada para ayudar a estudiantes a encontrar viviendas en alquiler de manera rápida y sencilla. Los arrendadores pueden publicar sus inmuebles, y los estudiantes pueden buscarlos a través de un mapa interactivo con geolocalización.
 
 🛠 Tecnologías:
+
 Frontend: Dart, Flutter
 Backend: Firebase (Auth, Firestore, Storage)
 Geolocalización: Google Maps API
 
 🎯 Funcionalidades:
+
 ✔ Registro e inicio de sesión con Google
 ✔ Perfiles de usuario: Estudiante y Arrendador
 ✔ Publicación de inmuebles con fotos y ubicación
